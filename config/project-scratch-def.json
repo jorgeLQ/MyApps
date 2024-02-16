@@ -1,0 +1,22 @@
+{
+  "orgName": "Demo company",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi","Communities", "ServiceCloud"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "omniChannelSettings": {
+        "enableOmniChannel": true
+    },
+    "caseSettings": {
+        "systemUserEmail": "jl_quilumba@hotmail.com"
+    }
+  }
+}
