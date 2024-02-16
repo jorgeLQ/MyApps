@@ -32,5 +32,10 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+	<types>
+		<members>Cerveza__c.Description__c</members>
+		<members>Cerveza__c.Price__c</members>
+		<name>CustomField</name>
+	</types>
     <version>59.0</version>
 </Package>
