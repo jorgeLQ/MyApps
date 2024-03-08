@@ -5,6 +5,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AppSwitcher</members>
+        <name>AppMenu</name>
+    </types>
+    <types>
         <members>beer</members>
         <name>ContentAsset</name>
     </types>
@@ -36,6 +40,11 @@
     <types>
         <members>Cerveza__c.All</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>B2B Reordering Portal Buyer Profile</members>
+        <name>Profile</name>
     </types>
     <version>59.0</version>
 </Package>

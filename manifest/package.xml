@@ -32,10 +32,38 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    <types>
+        <members>beer</members>
+        <name>ContentAsset</name>
+    </types>
+        <types>
+        <members>Catalogo_de_Productos</members>
+        <name>CustomApplication</name>
+    </types>
 	<types>
 		<members>Cerveza__c.Description__c</members>
 		<members>Cerveza__c.Price__c</members>
 		<name>CustomField</name>
 	</types>
+        <types>
+        <members>Cerveza__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Cerveza__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Cat_logo_de_Productos_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Cerveza__c-Formato Cerveza</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Cerveza__c.All</members>
+        <name>ListView</name>
+    </types>
     <version>59.0</version>
 </Package>

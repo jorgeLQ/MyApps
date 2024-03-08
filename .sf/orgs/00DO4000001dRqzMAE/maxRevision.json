@@ -1,0 +1,83 @@
+{
+    "serverMaxRevisionCounter": 29,
+    "sourceMembers": {
+        "Profile__Admin": {
+            "serverRevisionCounter": 26,
+            "lastRetrievedFromServer": 26,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "ApexClass__GetAccount": {
+            "serverRevisionCounter": 2,
+            "lastRetrievedFromServer": 2,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "Profile__B2B Reordering Portal Buyer Profile": {
+            "serverRevisionCounter": 25,
+            "lastRetrievedFromServer": 25,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Layout__Cerveza__c-Formato Cerveza": {
+            "serverRevisionCounter": 11,
+            "lastRetrievedFromServer": 11,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomObject__Cerveza__c": {
+            "serverRevisionCounter": 6,
+            "lastRetrievedFromServer": 6,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "CustomField__Cerveza__c.Price__c": {
+            "serverRevisionCounter": 7,
+            "lastRetrievedFromServer": 7,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__Cerveza__c.Description__c": {
+            "serverRevisionCounter": 10,
+            "lastRetrievedFromServer": 10,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "ContentAsset__beer": {
+            "serverRevisionCounter": 13,
+            "lastRetrievedFromServer": 13,
+            "memberType": "ContentAsset",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Cat_logo_de_Productos_UtilityBar": {
+            "serverRevisionCounter": 19,
+            "lastRetrievedFromServer": 19,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "AppMenu__AppSwitcher": {
+            "serverRevisionCounter": 20,
+            "lastRetrievedFromServer": 20,
+            "memberType": "AppMenu",
+            "isNameObsolete": false
+        },
+        "CustomApplication__Catalogo_de_Productos": {
+            "serverRevisionCounter": 29,
+            "lastRetrievedFromServer": 29,
+            "memberType": "CustomApplication",
+            "isNameObsolete": false
+        },
+        "CustomTab__Cerveza__c": {
+            "serverRevisionCounter": 24,
+            "lastRetrievedFromServer": 24,
+            "memberType": "CustomTab",
+            "isNameObsolete": false
+        },
+        "ListView__Cerveza__c.All": {
+            "serverRevisionCounter": 27,
+            "lastRetrievedFromServer": 27,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        }
+    }
+}

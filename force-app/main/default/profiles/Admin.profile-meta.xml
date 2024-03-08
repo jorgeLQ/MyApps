@@ -36,7 +36,7 @@
         <tab>Cerveza__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
-    <userLicense>Salesforce</userLicense>
+    <!--<userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
         <name>AIViewInsightObjects</name>
@@ -768,5 +768,5 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>WorkCalibrationUser</name>
-    </userPermissions>
+    </userPermissions>-->
 </Profile>
